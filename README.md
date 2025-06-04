@@ -33,3 +33,6 @@ GERENCIANET_PIX_KEY=chave_pix_gerencianet
 
 # para usar GERENCIANET Em backend\certs
 # Salvar o certificado no formato .p12
+
+
+Não funciona
