@@ -6,12 +6,8 @@ cd whaticket
 git clone https://github.com/apouaoui/whaticket-10.12.0.git
 mv whaticket-10.12.0/* .
 sudo ./whaticketsaas
+
 ```
-
-cd ./whaticket
-sudo chmod +x whaticketsaas
-sudo ./whaticketsaas
-
 ===================================================
 
 login: admin@admin.com
