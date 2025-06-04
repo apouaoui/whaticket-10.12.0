@@ -5,7 +5,7 @@ mkdir whaticket
 cd whaticket
 git clone https://github.com/apouaoui/whaticket-10.12.0.git
 mv whaticket-10.12.0/* .
-sudo ./instalador
+sudo ./whaticketsaas
 ```
 
 cd ./whaticket
